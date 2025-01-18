@@ -36,6 +36,11 @@ public class TitleManager : Singleton<TitleManager>
 
     protected void GameStart()
     {
-        Utils.LoadScene(SceneNames.InGame);
+        // 페이드 인
+        UIManager.Instance.Fade(Color.black, 0f, 1f, 1f, 0f, false, () =>
+        {
+            //UIManager.Instance.CloseAllOpenUI();
+            Utils.LoadScene(SceneNames.InGame);
+        });
     }
 }

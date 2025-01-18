@@ -8,6 +8,7 @@ public class InGameManager : Singleton<InGameManager>
     {
         m_IsDestroyOnLoad = true;
         base.Init();
+        UIManager.Instance.Fade(Color.black, 1f, 0f, 1f, 0f, true); // 페이드 아웃
     }
 }
 
