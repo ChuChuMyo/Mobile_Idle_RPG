@@ -29,7 +29,7 @@ public class BaseUI : MonoBehaviour
         rectTransform.localPosition = new Vector3(0f, 0f, 0f);
         rectTransform.localScale = new Vector3(1f, 1f, 1f);
         rectTransform.offsetMin = new Vector2(0, 0);
-        rectTransform.offsetMax = new Vector2(0, 0);
+        rectTransform.offsetMax = new Vector2(0, 1100*-1);
         
     }
 

@@ -11,7 +11,7 @@ public class UIManager : Singleton<UIManager>
     public Transform UICanvasTrs;
     public Transform m_ClosedUITrs;
     //public Transform ClosedUITrs;
-    BaseUI m_FrontUI;
+    public BaseUI m_FrontUI;
     //페이드 이미지 컴포넌트
     public Image m_Fade;
     //현재 열려있는 UI 화면을 담고 있는 변수
