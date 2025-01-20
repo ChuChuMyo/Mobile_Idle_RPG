@@ -122,6 +122,120 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &132930419
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1899133675}
+    m_Modifications:
+    - target: {fileID: 2200333023994704134, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_Name
+      value: TitleNameText
+      objectReference: {fileID: 0}
+    - target: {fileID: 3164238396382658199, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_text
+      value: Title_Name
+      objectReference: {fileID: 0}
+    - target: {fileID: 3164238396382658199, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_fontSize
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3164238396382658199, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 800
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 800
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+--- !u!224 &132930420 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 6804321914208153652, guid: d5844f8200e5e6447a635df13b675512, type: 3}
+  m_PrefabInstance: {fileID: 132930419}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &365147729
 GameObject:
   m_ObjectHideFlags: 0
@@ -305,7 +419,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -670,6 +784,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   UICanvasTrs: {fileID: 494633207}
   m_ClosedUITrs: {fileID: 365147730}
+  m_FrontUI: {fileID: 0}
   m_Fade: {fileID: 914864053}
 --- !u!4 &1423062547
 Transform:
@@ -1087,6 +1202,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 132930420}
   - {fileID: 873838703}
   - {fileID: 1423531361}
   m_Father: {fileID: 0}
@@ -1106,7 +1222,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2200333023994704134, guid: d5844f8200e5e6447a635df13b675512, type: 3}
       propertyPath: m_Name
-      value: TitleText
+      value: LoadingText
       objectReference: {fileID: 0}
     - target: {fileID: 3164238396382658199, guid: d5844f8200e5e6447a635df13b675512, type: 3}
       propertyPath: m_text
